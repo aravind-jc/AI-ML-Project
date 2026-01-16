@@ -1,15 +1,13 @@
-# 🎓 Student Risk Prediction System for Early Intervention
+# 🎓 AI FOR PERSONALIZED ACADEMIC INTERVENTION - Student Risk Prediction & Early Support System
+
+## 📋 Project Track
+AI in personalised Learning
 
 ## 📋 Project Overview
 A machine learning system to predict at-risk students in Python Programming course, enabling early academic interventions.
 
-**Institution:** MLR Institute of Technology, Hyderabad  
-**Course:** Python Programming (First Year)  
-**Academic Years:** 2022-23, 2023-24, 2024-25  
-**Project Type:** Educational Analytics & Early Warning System
-
 ## 🎯 Problem Statement
-Predict which students are at risk of failing Semester End Examination (SEE) based on their CET ranks and Continuous Internal Evaluation (CIE) scores, allowing for timely academic interventions.
+Predict which students are at risk of failing Semester End Examination (SEE) based on their CET ranks and Continuous Internal Evaluation (CIE) scores, allowing for timely and personalised academic interventions.
 
 ### Real-world Significance
 - **Early Identification:** Proactive support before academic failure
@@ -132,5 +130,6 @@ This project is for academic purposes. Contact the institution for usage permiss
 **Status:** Ready for 2025-26 Deployment
 
 ---
+
 
 *"Data-driven insights for student success"*
